@@ -93,6 +93,4 @@ canvas画圆形进度条
     
     
 动态创建canvas节点是因为可以组件化，方便拿到其他地方使用。
-大概运行结果如图
-![](leanote://file/getImage?fileId=5b1d240dcefbd056f1000003)
 
